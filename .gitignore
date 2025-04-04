@@ -4,3 +4,5 @@ __pycache__/
 *.db
 assets/external/
 assets
+FashionSearch/domain/images/
+FashionSearch/domain/services/models/token_4_model.pt
