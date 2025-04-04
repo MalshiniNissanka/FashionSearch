@@ -3,7 +3,4 @@ __pycache__/
 .web
 *.db
 assets/external/
-FashionSearch/domain/images
-uploaded_files
-assets/image_db
 assets
